@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">raffael</string>
+    <string name="go">go</string>
+    <string name="exemplo_switch">Exemplo switch</string>
+</resources>
